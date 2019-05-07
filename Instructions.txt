@@ -1,0 +1,3 @@
+Launch "ToyRobot.exe" passing the name of the chosen input file
+
+example: ...\toy_robot\bin>mono ToyRobot.exe input_test_1.txt
